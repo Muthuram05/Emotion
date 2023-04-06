@@ -1,22 +1,11 @@
-# emotion-based-music
-<h1>Explaination Video</h1>
-<a href="https://youtu.be/uDzLxos0lNU">Emotion based music | ai | deep learning project | with code | ml project</a>
-<a href="https://youtu.be/uDzLxos0lNU"><img src="emotion.jpg"/></a>
+# Music Recommendation Based on Facial Expression for Web
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)  
+[![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/) 
 
-<h1>Description</h1>
-Welcome to new project emotion based music built by using mediapipe and keras. also opencv and streamlit is used to create a webapp. for capturing the webcam in the browser i used streamlit-webrtc module. I explained all of the code in this video which is required to create a webapp for emotion based music recommender.
-<br><br>
-In this video I used live emoji project code to create a model which could classify different emotions so I already explained the code for that which is over here
-<br>Data Collection script : https://youtu.be/ZxZSGRdTLtE
-<br>Data Training and Inference script : https://youtu.be/He_oZ-MnIrU
-<br>code for live emoji : https://github.com/Pawandeep-prog/liveEmoji
+## What steps you have to follow??
+- Download or clone my Repository to your device
+- open terminal
+- type `pip install -r requirements.txt`
+- type `streamlit run music.py`
 
-<h1>Connect with me</h1>
-If you have any queries regarding any of the topic I discussed in this video feel free to talk to e using below links:<br>
-facebook : https://m.facebook.com/proogramminghub<br>
-instagram : @programming_hut<br>
-twitter : https://twitter.com/programming_hut<br>
-github : https://github.com/Pawandeep-prog<br>
-discord : https://discord.gg/G5Cunyg<br>
-linkedin : https://www.linkedin.com/in/programminghut<br>
-youtube : https://www.youtube.com/c/programminghutofficial<br>
+## Just follow me and Star⭐ my repository
